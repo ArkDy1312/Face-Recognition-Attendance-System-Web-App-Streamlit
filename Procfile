@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run face_recog.py
+web:sh setup.sh && streamlit run face_recog.py

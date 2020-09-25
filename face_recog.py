@@ -25,7 +25,7 @@ def main():
     elif option == 'Give Attendance Using Webcam':
         start = st.button('START')
 
-        if start:
+        #if start:
             #detect('webcam', 'webcam')
 
 

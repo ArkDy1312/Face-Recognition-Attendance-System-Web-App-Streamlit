@@ -1,8 +1,8 @@
-import cv2
-import pandas as pd
-import face_recognition
-from os import listdir
-from datetime import datetime
+#import cv2
+#import pandas as pd
+#import face_recognition
+#from os import listdir
+#from datetime import datetime
 import streamlit as st
 
 

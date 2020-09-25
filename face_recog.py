@@ -1,4 +1,4 @@
-#import cv2
+import cv2
 import pandas as pd
 import face_recognition
 from os import listdir

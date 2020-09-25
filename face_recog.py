@@ -15,10 +15,10 @@ def main():
     if option == 'See Some Examples':
         format = st.radio('Select Format',('Image','Video'), index=0)
 
-        if format == 'Image':
+        #if format == 'Image':
             #detect('image.jpg', format.lower())
 
-        elif format == 'Video':
+        #elif format == 'Video':
             #detect('video.mp4', format.lower())
 
 
